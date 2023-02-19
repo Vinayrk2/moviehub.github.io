@@ -274,6 +274,10 @@ section .movieBox img:hover{
 		height: 32px;
 		font-size: 16px;
 	}
+	#subject{
+		width:95.5%;
+	}
+
 	#cont_btn{
 		margin-left: 10%;
 		width:70%;
