@@ -338,4 +338,6 @@ section .movieBox img:hover{
 			width:100%;
 			height: auto;
 		}
+#scrollDiv{
+   right:0;
 	}
